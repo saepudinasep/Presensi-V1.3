@@ -1,0 +1,43 @@
+.box{
+	transition: 1s;
+}
+.box:hover{
+	transform: scale(1.2);
+}
+ @media only screen and (max-width: 600px) {
+.rank {
+font-size: 14px;
+}
+}
+@media only screen and (max-width: 600px) {
+.judul {
+font-size: 16px;
+}
+}
+
+@media only screen and (max-width: 600px) {
+.detailAbout {
+font-size: 14px;
+}
+}
+@media only screen and (max-width: 600px) {
+.canvas {
+height: 100px;
+width: 200px;
+}
+}
+@media only screen and (max-width: 600px) {
+.judulChart {
+font-size: 16px;
+}
+}
+
+
+
+
+.dashboard{
+	transition: 1s;
+}
+.dashboard:hover{
+	transform: scale(1.1);
+}
